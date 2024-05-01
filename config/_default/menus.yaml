@@ -6,17 +6,17 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Products
+  - name: Work
     weight: 20
     hasChildren: true
-  - parent: Products
-    name: Devices
-    url: devices/
-  - parent: Products
-    name: Sensors
-    url: sensors/
-  - name: Customake
-    url: customake/
+  - parent: Work
+    name: Projects
+    url: projects/
+  - parent: Work
+    name: WorkBlogs
+    url: work-blogs/
+  - name: Life
+    url: life/
     weight: 30
   - name: About me
     url: about-me/
