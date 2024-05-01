@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sigphase | IoT Remote Monitoring # Website name
-baseURL: 'https://sigphase.com/' # Website URL
+title: Tande | Work & Daily # Website name
+baseURL: 'https://tandechen.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
