@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Company Site
+    site_type: Personal Blog
     local_business_type: ''
-    org_name: 'Sigphase'
-    description: 'Sigphase, AI powered remote monotoring'
+    org_name: 'Tande'
+    description: 'Tande'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -39,12 +39,12 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Sigphase Shop"
-      url: "https://sigphase.com"
+      text: "Tande's Shop"
+      url: "https://tandechen.github.io/shop"
     show_search: true
     show_theme_chooser: true
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2014'
+  date_format: 'Jan 2, 2024'
   time_format: '3:04 PM'
