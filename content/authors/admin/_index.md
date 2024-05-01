@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Sigphase
+title: Tande
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Sigphase
-last_name: 
+first_name: Tande
+last_name: Chen
 
 # Status emoji
 status: 
@@ -17,28 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: IoT Remote Monitoring
+role: Work&Daily
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sigphase
-    url: https://www.sigphase.com/
+  - name: Tande
+    url: https://tandechen.github.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sigphase, your awesome IoT Remote Monitoring Solutions
+bio: Tande
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sigphase@outlook.com'
+    url: 'mailto:tedchen566@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://www.sigphase.com/
+    url: https://tandechen.github.io/
   - icon: brands/instagram
-    url: https://www.sigphase.com/
+    url: https://tandechen.github.io/
   - icon: brands/linkedin
-    url: https://www.sigphase.com/
+    url: https://tandechen.github.io/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -54,4 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Sigphase, your awesome IoT Remote Monitoring Solutions
+Tande's

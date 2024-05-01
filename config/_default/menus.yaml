@@ -15,8 +15,8 @@ main:
   - parent: Work
     name: WorkBlogs
     url: work-blogs/
-  - name: Life
-    url: life/
+  - name: Daily
+    url: daily/
     weight: 30
   - name: About me
     url: about-me/

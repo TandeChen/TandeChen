@@ -17,8 +17,8 @@ sections:
         url: https://tandechen.github.io/projects/
      #  icon: rocket-launch
       secondary_action:
-        text: Life
-        url: https://tandechen.github.io/life/
+        text: Daily
+        url: https://tandechen.github.io/daily/
       announcement:
         text: "Learn more about me"
         link:
