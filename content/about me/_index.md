@@ -7,5 +7,7 @@ title: Tande Chen
 
 ##
 
-Work at Knaq: Product design, hardware circuit design, procurement and supervision of manufacturing. Designed and produced all hardware equipments for Knaq.
+Work at Knaq: Product design, hardware circuits design, everything about products including procurement and supervision of manufacturing. Design and direct the production of all knaq hardware products. 
+
+
 
