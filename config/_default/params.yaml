@@ -32,10 +32,10 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
-    button:
-      enable: true
-      text: "Tande's Shop"
-      url: "https://tandechen.github.io/shop"
+    #button:
+      #enable: true
+      #text: "Tande's Shop"
+      #url: "https://tandechen.github.io/shop"
     show_search: true
     show_theme_chooser: true
 
