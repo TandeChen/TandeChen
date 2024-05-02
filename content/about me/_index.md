@@ -7,5 +7,5 @@ title: Tande Chen
 
 ##
 
-This is Tande Chen's personal site. 测试
-这是我的个人博客
+Work at Knaq: Product design, hardware circuit design, procurement and supervision of manufacturing. Designed and produced all hardware equipments for Knaq.
+
